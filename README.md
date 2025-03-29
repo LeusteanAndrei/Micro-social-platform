@@ -3,6 +3,7 @@ Amongst others, I've worked on implementing the Group and Chat features, and mak
 
 The app allows the user to make an account and then:
   -post images, gifs, media or text
+  
   -make comments
   -enter groups where he'll have conversations with people with the same interests
   -follow groups or other users to stay up to date with the posts ( using a notification system )
