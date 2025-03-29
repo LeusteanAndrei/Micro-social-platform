@@ -2,12 +2,12 @@ A micro-social platform similar to Facebook, created for a Web Development cours
 Amongst others, I've worked on implementing the Group and Chat features, and making the connection with the database.
 
 The app allows the user to make an account and then:  
-  -post images, gifs, media or text
-  -make comments
-  -enter groups where he'll have conversations with people with the same interests
-  -follow groups or other users to stay up to date with the posts ( using a notification system )
-  -chat with public users or private users which he follows
-  -create a profile which could be private or public
+  -post images, gifs, media or text  
+  -make comments  
+  -enter groups where he'll have conversations with people with the same interests  
+  -follow groups or other users to stay up to date with the posts ( using a notification system )  
+  -chat with public users or private users which he follows  
+  -create a profile which could be private or public  
 
 
 ![image](https://github.com/user-attachments/assets/813aebed-bc25-4c33-94f2-7f6924f30aea)
