@@ -8,7 +8,7 @@ The app allows the user to make an account and then:
   -follow groups or other users to stay up to date with the posts ( using a notification system )  
   -chat with public users or private users which he follows  
   -create a profile which could be private or public  
-
+These screenshots are some pages from the application (the profile page, the users page and the chat design )
 
 ![image](https://github.com/user-attachments/assets/813aebed-bc25-4c33-94f2-7f6924f30aea)
 
