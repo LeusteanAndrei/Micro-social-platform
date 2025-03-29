@@ -14,4 +14,5 @@ These screenshots are some pages from the application (the profile page, the use
 
 ![image](https://github.com/user-attachments/assets/d6dca732-1979-4dd4-893b-7bba03b00d78)
 
-![image](https://github.com/user-attachments/assets/a1c520c1-67d6-404b-a116-1a3a3b1db0e6)
+![image](https://github.com/user-attachments/assets/219b02e1-0ffc-457a-996b-adb6c7eaf5cd)
+
