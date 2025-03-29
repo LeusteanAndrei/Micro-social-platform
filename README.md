@@ -1,7 +1,7 @@
 A micro-social platform similar to Facebook, created for a Web Development course, in a team of three people. The project is made using the Asp .Net Core Framework, using the Mvc arhitecture.
 Amongst others, I've worked on implementing the Group and Chat features, and making the connection with the database.
 
-The app allows the user to make an account and then:\n
+The app allows the user to make an account and then:  
   -post images, gifs, media or text
   -make comments
   -enter groups where he'll have conversations with people with the same interests
